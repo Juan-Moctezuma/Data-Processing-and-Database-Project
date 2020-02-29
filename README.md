@@ -14,16 +14,16 @@ Did you know that most of the time data needs to be prepared and/or modified pri
 2. B) PYTHON-DATA_TXT_CONVERTER (folder)
     * Arduino_Serial_Monitor_Txt_Converter.py (Python's script)
     * OUTPUT (folder)
-          1. Arduino_Temperature_Raw_Data.txt (Unprocessed readings)
+          	1. Arduino_Temperature_Raw_Data.txt (Unprocessed readings)
     * Python_Arduino_Serial_Monitor_Txt_Converter_Code_Sample.docx (Python's script in Word)
 3. C) EXCEL_MACRO-DATA_PROCESSOR (folder)
     * Arduino_Temperature_Processed_Data (with Macro).xlsm
     * Macro_Arduino_Raw_Data_Processing_Code_Sample.docx (Macro/VBA script written in Word)
     * OUTPUT (folder)
-          1. Arduino_Temperature_Processed_Data (Disabled Macro).xlsx (Excel file ready to get loaded in database)
+         	1. Arduino_Temperature_Processed_Data (Disabled Macro).xlsx (Excel file ready to get loaded in database)
 4. D) POSTGRESQL-RECORDED_TEMPERATURE_DB (folder)
     * FILES_TO_LOAD_(CSV_ONLY) (folder)
-          1. Arduino_Temperature_Processed_Data.csv (comma delimited file)
+    		1. Arduino_Temperature_Processed_Data.csv (comma delimited file)
     * RECORDED_ROOM_TEMPERATURE_(SQL_Table) Code_Sample.docx (SQL database script in Word)
     * RECORDED_ROOM_TEMPERATURE.sql
 5. Data Processing and Database Project.docx (WRITING SAMPLE / TECHNICAL PAPER)
@@ -35,8 +35,8 @@ Did you know that most of the time data needs to be prepared and/or modified pri
 2. Python 3.6 via PyCharm CE open-source IDE
 3. MacBook Pro – macOS Sierra Version 10.12.6
 4. Microsoft Office:
-	  * Microsoft Excel
-          1. Microsoft Excel Macro and VBA Editor
-	  * Microsoft PowerPoint
-	  * Microsoft Word
+	* Microsoft Excel
+        	1. Microsoft Excel Macro and VBA Editor
+	* Microsoft PowerPoint
+	* Microsoft Word
 5. PostgreSQL via open-source pgAdmin3

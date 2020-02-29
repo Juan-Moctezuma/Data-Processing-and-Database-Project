@@ -8,22 +8,22 @@ Did you know that most of the time data needs to be prepared and/or modified pri
 
 (Points 5 and 6 represent writing sample and summary respectively)
 
-1. ARDUINO-RAW_DATA_SOURCE (folder):
+1. A) ARDUINO-RAW_DATA_SOURCE (folder):
 	* Arduino_Thermometer_Code_Sample.docx (Circuit's code in Word)
 	* Thermometer.ino (Circuit's code)
-2. PYTHON-DATA_TXT_CONVERTER (folder):
+2. B) PYTHON-DATA_TXT_CONVERTER (folder):
 	* Arduino_Serial_Monitor_Txt_Converter.py (Python's script)
 	* OUTPUT (folder)
 	1. Arduino_Temperature_Raw_Data.txt (Unprocessed readings)
 	* Python_Arduino_Serial_Monitor_Txt_Converter_Code_Sample.docx (Python's script in Word)
-3. EXCEL_MACRO-DATA_PROCESSOR (folder):
+3. C) EXCEL_MACRO-DATA_PROCESSOR (folder):
 	* Arduino_Temperature_Processed_Data (with Macro).xlsm
 	* Macro_Arduino_Raw_Data_Processing_Code_Sample.docx (Macro/VBA script written in Word)
 	* OUTPUT (folder)
 	1. Arduino_Temperature_Processed_Data (Disabled Macro).xlsx (Excel file ready to get loaded in database)
-4. POSTGRESQL-RECORDED_TEMPERATURE_DB (folder):
+4. D) POSTGRESQL-RECORDED_TEMPERATURE_DB (folder):
 	* FILES_TO_LOAD_(CSV_ONLY) (folder)
-	1. Arduino_Temperature_Processed_Data.csv (comma delimited file)
+        1. Arduino_Temperature_Processed_Data.csv (comma delimited file)
 	* RECORDED_ROOM_TEMPERATURE_(SQL_Table) Code_Sample.docx (SQL database script in Word)
 	* RECORDED_ROOM_TEMPERATURE.sql
 5. Data Processing and Database Project.docx (WRITING SAMPLE / TECHNICAL PAPER)

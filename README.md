@@ -20,10 +20,10 @@ Did you know that most of the time data needs to be prepared and/or modified pri
 	* Arduino_Temperature_Processed_Data (with Macro).xlsm
 	* Macro_Arduino_Raw_Data_Processing_Code_Sample.docx (Macro/VBA script written in Word)
 	* OUTPUT (folder)
-        1. Arduino_Temperature_Processed_Data (Disabled Macro).xlsx (Excel file ready to get loaded in database)
+        1. Arduino_Temperature_Processed_Data (Disabled Macro).xlsx (Excel file - final result not ready to get loaded in database)
 4. D) POSTGRESQL-RECORDED_TEMPERATURE_DB (folder):
 	* FILES_TO_LOAD_(CSV_ONLY) (folder)
-        1. Arduino_Temperature_Processed_Data.csv (comma delimited file)
+        1. Arduino_Temperature_Processed_Data.csv (comma delimited file - this gets loaded into database)
 	* RECORDED_ROOM_TEMPERATURE_(SQL_Table) Code_Sample.docx (SQL database script in Word)
 	* RECORDED_ROOM_TEMPERATURE.sql
 5. Data Processing and Database Project.docx (WRITING SAMPLE / TECHNICAL PAPER)

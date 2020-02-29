@@ -36,7 +36,7 @@ Did you know that most of the time data needs to be prepared and/or modified pri
 3. MacBook Pro – macOS Sierra Version 10.12.6
 4. Microsoft Office:
 	* Microsoft Excel
-        	1. Microsoft Excel Macro and VBA Editor
+        1. Microsoft Excel Macro and VBA Editor
 	* Microsoft PowerPoint
 	* Microsoft Word
 5. PostgreSQL via open-source pgAdmin3

@@ -7,6 +7,9 @@ Did you know that most of the time data needs to be prepared and/or modified pri
 ### Directory Tree
 <img src="Image/Data_Processing.png" width="80%">
 
+### Project GIF
+<img src="Image/Arduino.gif" width="80%">
+
 ### What's included in this repository? (Click on the 'Data-Processing-and-Database-Project' folder)
 
 (Points 5 and 6 represent writing sample and summary respectively)
